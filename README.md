@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Augusto
-- 👀 I’m interested in JavaScript, Angular, React
-- 🌱 I’m currently learning all I can but, step by step
-- 💞️ I’m looking to collaborate on any proyects 
-- 📫 How to reach me: augustodiaz_1@hotmail.com 
-
-#Blablabla
+- 👀 I’m interested in MERN and MEAN Stack positions in any place of the world.
+- 🌱 I’m currently learning as much as I can.
+- 💞️ I want collaborate in diverse projects.
+- 📫 How to reach me: augustordiaz@gmail.com
+- I am from Argentina, I lived in China from 2015 to 2020 and at this moment living in eastern Russia.
 
 <!---
 AugustoRoberto/AugustoRoberto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
