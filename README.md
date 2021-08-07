@@ -7,20 +7,20 @@
 - 👀 Have a look some of my works: 
 
 Portofolio in Angular:
-👓Angular, JavaScript, Firebase, Template.
 https://augustodiaz-dev.github.io/Angular-Portofolio/#/home
+👓Angular, JavaScript, Firebase, Template.
 
 Task tracker:
-👓 Vue, JavaScript
 https://augustodiaz-dev-vue-task-tracker.netlify.app/
+👓 Vue, JavaScript
 
 React Blog: 
-👓 React, JavaScript
 https://augustodiaz-dev-react-blog-nn.netlify.app/
+👓 React, JavaScript
 
 Website in Chinese Language: 
-👓 HTML5, CSS3, Bootstrap.
 https://augustodiaz-dev.github.io/Website-Chinese-Language/
+👓 HTML5, CSS3, Bootstrap.
 
 
 
