@@ -22,5 +22,6 @@ Website in Chinese Language:
 https://augustodiaz-dev.github.io/Website-Chinese-Language/
 👓 HTML5, CSS3, Bootstrap.
 
+LINKEDIN: https://www.linkedin.com/in/augusto-diaz-dev/
 
 
