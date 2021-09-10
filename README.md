@@ -6,21 +6,29 @@
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment living in eastern Russia.
 - 👀 Have a look some of my works: 
 
-Portofolio in Angular:
+Project using Materialize CSS: 
+https://ades.netlify.app/
+👓HTML5, CSS3, jQuery, JavaScript, Materialize Css. Spanish language.
+
+Newspaper prototype (modified template):
+https://primzoridigital.netlify.app/
+👓HTML5, CSS3, jQuery, JavaScript, Font Awesome. Russian language.
+
+Portofolio (Angular):
 https://augustodiaz-dev.github.io/Angular-Portofolio/#/home
-👓Angular, JavaScript, Firebase, Template.
+👓Angular, JavaScript, Firebase, Template. Spanish language.
 
-Task tracker:
+Task tracker (Vue):
 https://augustodiaz-dev-vue-task-tracker.netlify.app/
-👓 Vue, JavaScript
+👓 Vue, JavaScript. English language.
 
-React Blog: 
+Blog (React): 
 https://augustodiaz-dev-react-blog-nn.netlify.app/
-👓 React, JavaScript
+👓 React, JavaScript. English language.
 
-Website in Chinese Language: 
+Website in Chinese Language (Bootstrap): 
 https://website-chinese-language.vercel.app/
-👓 HTML5, CSS3, Bootstrap.
+👓 HTML5, CSS3, Bootstrap. Chinese language. 
 
 LINKEDIN: https://www.linkedin.com/in/augusto-diaz-dev/
 
