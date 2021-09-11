@@ -4,7 +4,7 @@
 - 💞️ I want collaborate in diverse kind of projects
 - 📫 How to reach me: augustordiaz@gmail.com
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment living in eastern Russia.
-- 👀 Have a look some of my works: 
+- 👀 Here are some of my works: 
 
 Project using Materialize CSS: 
 https://ades.netlify.app/
