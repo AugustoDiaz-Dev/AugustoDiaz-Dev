@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Augusto
-- 👀 I’m interested in MERN Stack positions in any place of the world
-- 🌱 I’m currently learning as much as I can
+- 👀 I’m interested Front End Developer
+- 🌱 I have some experience with: React, Angular, Vue, JavaScript, PHP, Python, Materialize, Bootstrap, CSS3, HTML5. MySQL, MongoDB, Firebase. ExpressJS, MomentJS, Figma, jQuery and many more.
 - 💞️ I want collaborate in diverse kind of projects
 - 📫 How to reach me: augustordiaz@gmail.com
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment living in eastern Russia.
@@ -8,15 +8,15 @@
 
 Project using Materialize CSS: 
 https://ades.netlify.app/
-👓HTML5, CSS3, jQuery, JavaScript, Materialize Css. Spanish language.
+👓HTML5, CSS3, jQuery, JavaScript, Materialize Css. En idioma español.
 
-Newspaper prototype (modified template):
+Прототип газеты (измененный шаблон):
 https://primzoridigital.netlify.app/
-👓HTML5, CSS3, jQuery, JavaScript, Font Awesome. Russian language.
+👓HTML5, CSS3, jQuery, JavaScript, Font Awesome. русский язык.
 
 Portofolio (Angular):
 https://augustodiaz-dev.github.io/Angular-Portofolio/#/home
-👓Angular, JavaScript, Firebase, Template. Spanish language.
+👓Angular, JavaScript, Firebase, Template. En idioma español.
 
 Task tracker (Vue):
 https://augustodiaz-dev-vue-task-tracker.netlify.app/
@@ -26,9 +26,9 @@ Blog (React):
 https://augustodiaz-dev-react-blog-nn.netlify.app/
 👓 React, JavaScript. English language.
 
-Website in Chinese Language (Bootstrap): 
+中文简历。 (Bootstrap): 
 https://website-chinese-language.vercel.app/
-👓 HTML5, CSS3, Bootstrap. Chinese language. 
+👓 HTML5, CSS3, Bootstrap. 汉语. 
 
 LINKEDIN: https://www.linkedin.com/in/augusto-diaz-dev/
 
