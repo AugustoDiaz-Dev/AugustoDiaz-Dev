@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Augusto
 - 👀 I’m a Front End Developer
-- 🌱 I have some experience with: React, Angular, Vue, JavaScript, PHP, Python, Materialize, Bootstrap, CSS3, HTML5. MySQL, MongoDB, Firebase. ExpressJS, MomentJS, Figma, jQuery and many more.
-- 💞️ I want collaborate in diverse kind of projects
+- 🌱 I have some experience with: React, Angular, Vue, JavaScript, PHP, Python, Materialize, Bootstrap, CSS3, HTML5, Handlebars. MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages. ExpressJS, MomentJS, Figma, jQuery and many more.
+- 💞️ I want collaborate in diverse kind of projects.
 - 📫 How to reach me: augustordiaz@gmail.com
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment living in eastern Russia.
-- 🐱‍👤 I studied programming mainly in Argentina in the "National Technological University (UTN)"
+- 🐱‍👤 I studied programming mainly in Argentina, in the "National Technological University (UTN)".
+- 🐱‍👤 Other resources where I often go for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Google, Udemy, Github repositories.
 - 👀 Here are some of my works: 
 
 Project using Materialize CSS: 
