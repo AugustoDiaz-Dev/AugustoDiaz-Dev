@@ -70,6 +70,13 @@ https://website-chinese-language.vercel.app/
 [website]: https://github.com/AugustoDiaz-Dev
 [linkedin]: https://www.linkedin.com/in/augusto-diaz-dev/
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Augusto Diaz GitHub Stats" src="https://github-readme-stats.augustodiaz-dev.vercel.app/api?username=augustodiaz-dev&show_icons=true&hide_border=true" />
+
+</details>
+
 
 
 
