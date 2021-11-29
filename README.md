@@ -99,8 +99,79 @@ https://website-chinese-language.vercel.app/
  
 [![Augusto's github activity graph](https://activity-graph.herokuapp.com/graph?username=augustodiaz-dev&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Augusto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=augustodiaz-dev&theme=xcode)>
+ <!--[Augusto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=augustodiaz-dev&theme=xcode)>-->
 
 
+<h2 align='center'><i>Languages and Tools</i></h2>
 
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="60"> 
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
+    </td>
+</tr>
+ <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="60">
+    </td>
+</tr>
+</table>
 
