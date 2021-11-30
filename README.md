@@ -39,6 +39,8 @@
 <p>English: Advanced (TEFL Certificate) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" /></p>
 <p>Chinese: Upper Intermediate (HSK4) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" /></p>
 <p>Russian: Intermediate (РВП) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" /></p>
+<br/>
+<hr/>
 - 📫 How to reach me? email => augustordiaz@gmail.com
 - 👀 Here are some of my works:
 
