@@ -44,9 +44,9 @@
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" />
 <p>Russian: Intermediate (РВП Certificate) </p>
 <br/>
-<hr/>
 - 📫 How to reach me? email => augustordiaz@gmail.com
-- <br/>
+<hr/>
+
 - 👀 Here are some of my works:
 
 Прототип газеты (измененный шаблон):
