@@ -1,5 +1,8 @@
 ### Hi there, I'm Augusto! 👋
 
+  [website]: https://github.com/AugustoDiaz-Dev
+  [linkedin]: https://www.linkedin.com/in/augusto-diaz-dev/
+
   [![website](https://img.shields.io/website?label=Github%20Repo&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][website]
   [![linkedin](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][linkedin]
 
@@ -21,6 +24,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<hr/>
 
 - 🔭 I’m currently learning everything I can 🤣
 - 👯 I’m looking to to collaborate in diverse kind of projects.
@@ -33,19 +37,19 @@
 - ⚡ Fun fact: I love to learn languages, play piano and read books.
 - Languages: 
 <p>Mother Tongue: Spanish <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> </p>
+<p>English: Advanced (TEFL Certificate) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" /></p>
 <p>Chinese: Upper Intermediate (HSK4) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" /></p>
 <p>Russian: Intermediate (РВП) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" /></p>
-<p>English: Advanced (TEFL Certificate) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" /></p>
 
 - 👀 Here are some of my works:
-
-Project using Materialize CSS:
-https://ades.netlify.app/
-👓HTML5, CSS3, jQuery, JavaScript, Materialize Css. En idioma español.
 
 Прототип газеты (измененный шаблон):
 https://primzoridigital.netlify.app/
 👓HTML5, CSS3, jQuery, JavaScript, Font Awesome. русский язык.
+
+Project using Materialize CSS:
+https://ades.netlify.app/
+👓HTML5, CSS3, jQuery, JavaScript, Materialize Css. En idioma español.
 
 Portofolio (Angular):
 https://augustodiaz-dev.github.io/Angular-Portofolio/#/home
@@ -62,16 +66,6 @@ https://augustodiaz-dev-react-blog-nn.netlify.app/
 中文简历。 (Bootstrap):
 https://website-chinese-language.vercel.app/
 👓 HTML5, CSS3, Bootstrap. 汉语.
-
-### Connect with me:
-
-[<img align="left" alt="Augusto Diaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Augusto Diaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[website]: https://github.com/AugustoDiaz-Dev
-[linkedin]: https://www.linkedin.com/in/augusto-diaz-dev/
 
 <br />
 📈 My GitHub Stats
@@ -134,7 +128,7 @@ https://website-chinese-language.vercel.app/
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="60">
     </td>
 </tr>
 <tr>
@@ -148,7 +142,7 @@ https://website-chinese-language.vercel.app/
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
@@ -168,7 +162,7 @@ https://website-chinese-language.vercel.app/
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="60">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
 </tr>
 </table>
