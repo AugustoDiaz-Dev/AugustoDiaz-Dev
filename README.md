@@ -35,13 +35,14 @@
 - 🥅 2022 Goals: Contribute to Open Source projects and go deeper into backend skills.
 - ⚡ Fun fact: I love to learn languages, play piano and read books.
 - Languages: 
-<p>Mother Tongue: Spanish <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> </p>
+<p>Spanish: Mother tongue (Argentinian) <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> </p>
 <p>English: Advanced (TEFL Certificate) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" /></p>
-<p>Chinese: Upper Intermediate (HSK4) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" /></p>
-<p>Russian: Intermediate (РВП) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" /></p>
+<p>Chinese: Upper Intermediate (HSK4 level) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" /></p>
+<p>Russian: Intermediate (РВП Certificate) <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" /></p>
 <br/>
 <hr/>
 - 📫 How to reach me? email => augustordiaz@gmail.com
+- <br/>
 - 👀 Here are some of my works:
 
 Прототип газеты (измененный шаблон):
