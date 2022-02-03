@@ -32,7 +32,7 @@
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
 - 🐱‍👤 I studied programming mainly in Argentina, at the "National Technological University (UTN)". These days I study most of the things on my own.
 - 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Google, Udemy, Github repositories, Google.
-- 🥅 2022 Goals: Contribute to Open Source projects and go deeper into backend skills.
+- 🥅 Goals: Contribute to Open Source projects and go deeper into backend skills.
 - ⚡ Fun fact: I love to learn languages, play piano and read books.
 - Languages: <br/>
 <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
