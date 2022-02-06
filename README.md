@@ -6,7 +6,7 @@
   [![website](https://img.shields.io/website?label=Github%20Repo&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][website]
   [![linkedin](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][linkedin]
 
-## I'm a Front-End Developer
+## I'm a Full Stack
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,13 +26,11 @@
 <br />
 <hr/>
 
-- 🔭 I’m currently learning everything I can 🤣
-- 👯 I’m looking to collaborate in diverse kind of projects.
+- 🔭 I’m currently learning everything I can and looking to collaborate in diverse kind of projects.
 - I have some experience with: React, Angular, Vue, JavaScript, PHP, Java, Python, Materialize, Bootstrap, CSS3, HTML5, Handlebars. NodeJS, Spring Boot. MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. NodeJS, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
 - 🐱‍👤 I studied programming mainly in Argentina, at the "National Technological University (UTN)". These days I study most of the things on my own.
 - 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Google, Udemy, Github repositories, Google.
-- 🥅 Goals: Contribute to Open Source projects and go deeper into backend skills.
 - ⚡ Fun fact: I love to learn languages, play piano and read books.
 - Languages: <br/>
 <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
