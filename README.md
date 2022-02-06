@@ -71,10 +71,6 @@ Blog (React):
 https://augustodiaz-dev-react-blog-nn.netlify.app/
 👓 React, JavaScript. English language.
 
-中文简历。 (Bootstrap):
-https://website-chinese-language.vercel.app/
-👓 HTML5, CSS3, Bootstrap. 汉语.
-
 <br />
 📈 My GitHub Stats
 
