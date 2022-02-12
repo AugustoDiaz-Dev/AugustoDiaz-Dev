@@ -27,7 +27,11 @@
 <hr/>
 
 - 🔭 I’m currently learning everything I can and looking to collaborate in diverse kind of projects.
-- I have some experience with: React, Angular, Vue, JavaScript, PHP, Java, Python, Materialize, Bootstrap, CSS3, HTML5, Handlebars. NodeJS, Spring Boot. MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. NodeJS, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
+- I have some experience with: 
+    React, Vue, JavaScript, NodeJs, PHP, Java.
+    Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS. 
+    MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. 
+    Spring Boot, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
 - 🐱‍👤 I studied programming mainly in Argentina, at the "National Technological University (UTN)". These days I study most of the things on my own.
 - 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Google, Udemy, Github repositories, Google.
