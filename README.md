@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently learning everything I can and looking to collaborate in diverse kind of projects.
 - I have some experience with: 
-    React, Gatsby, Vue, JavaScript, NodeJs, PHP, Java.
+    React, Gatsby, Next.js, GraphQL, Vue, JavaScript, NodeJs, PHP, Java.
     Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS. 
     MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. 
     Spring Boot, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
