@@ -78,7 +78,7 @@ https://augustodiaz-dev-react-blog-nn.netlify.app/
 👓 React, JavaScript. English language.
 
 <br />
-📈 My GitHub Stats
+📈 My Stats
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=augustodiaz-dev&show_icons=true&theme=gotham" alt="Augusto Diaz Github Stats" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
