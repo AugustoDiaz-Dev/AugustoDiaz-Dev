@@ -51,32 +51,6 @@
 - 📫 How to reach me? email => augustordiaz@gmail.com
 <hr/>
 
-- 👀 Here are some of my works:
-
-Memories (Mern app): 
-https://mern-mories.netlify.app/
-👓 MongoDB, ExpressJS, React, NodeJS. Heroku.
-
-Прототип газеты (измененный шаблон):
-https://primzoridigital.netlify.app/
-👓 HTML5, CSS3, jQuery, JavaScript, Font Awesome. русский язык.
-
-Project using Materialize CSS:
-https://ades.netlify.app/
-👓 HTML5, CSS3, jQuery, JavaScript, Materialize Css. En idioma español.
-
-Portofolio (Angular):
-https://augustodiaz-dev.github.io/Angular-Portofolio/#/home
-👓 Angular, JavaScript, Firebase, Template. En idioma español.
-
-Task tracker (Vue):
-https://augustodiaz-dev-vue-task-tracker.netlify.app/
-👓 Vue, JavaScript. English language.
-
-Blog (React):
-https://augustodiaz-dev-react-blog-nn.netlify.app/
-👓 React, JavaScript. English language.
-
 <br />
 📈 My Stats
 
