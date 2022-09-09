@@ -20,7 +20,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" style="color: white;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
@@ -30,13 +29,13 @@
 - I have some experience with: 
 -   React Ecosystem: SPA, Gatsby, Next.js, Redux, Redux-Saga, Redux-Toolkit, Redux-Thunk, Storybook, Framer Motion, Styled Components, Material UI, Bootstrap, Axios, Router, GraphQL.
     Others:
-    Vue, JavaScript, NodeJs, PHP, Java.
+    Vue, JavaScript, NodeJs, PHP, Java, Python.
     Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS. 
     MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. 
     Spring Boot, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
-- 🐱‍👤 I studied programming mainly in Argentina, at the "National Technological University (UTN)". These days I study most of the things on my own.
-- 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Google, Udemy, Github repositories, Google.
+- 🐱‍👤 I studied programming in Argentina and Russia. These days I study most of the things on my own.
+- 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Github repositories, Google.
 - ⚡ Fun fact: I love to learn languages, play piano and read books.
 - Languages: <br/>
 <img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
