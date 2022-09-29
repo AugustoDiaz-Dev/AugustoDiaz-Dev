@@ -29,10 +29,10 @@
 - I have some experience with: 
 -   React Ecosystem: SPA, Gatsby, Next.js, Redux, Redux-Saga, Redux-Toolkit, Redux-Thunk, Storybook, Framer Motion, Styled Components, Material UI, Bootstrap, Axios, Router, GraphQL.
     Others:
-    Vue, JavaScript, NodeJs, PHP, Java, Python.
+    Vue, JavaScript, NodeJs, PHP, Python.
     Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS. 
     MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. 
-    Spring Boot, ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
+    ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, and many more.
 - 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
 - 🐱‍👤 I studied programming in Argentina and Russia. These days I study most of the things on my own.
 - 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Github repositories, Google.
