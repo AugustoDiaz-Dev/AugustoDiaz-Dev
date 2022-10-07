@@ -1,9 +1,6 @@
 ### Hi there, I'm Augusto! 👋
 
-  [website]: https://github.com/AugustoDiaz-Dev
   [linkedin]: https://www.linkedin.com/in/augusto-diaz-dev/
-
-  [![website](https://img.shields.io/website?label=Github%20Repo&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][website]
   [![linkedin](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][linkedin]
 
 ## I'm a Full Stack Developer
