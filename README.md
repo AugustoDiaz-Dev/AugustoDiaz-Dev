@@ -81,17 +81,6 @@ I frequently consult official documentation, W3Schools, FreeCodeCamp, MDN, Stack
 <!--theme colour change  
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustodiaz-dev&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustodiaz-dev&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Augusto Diaz Github Stats"/>
-</div> 
-</br>
-  
-  ### Coding Stats
- 
- 
-[![Augusto's github activity graph](https://activity-graph.herokuapp.com/graph?username=augustodiaz-dev&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
- <!--[Augusto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=augustodiaz-dev&theme=xcode)>-->
-
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
