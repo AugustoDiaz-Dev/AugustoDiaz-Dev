@@ -22,31 +22,38 @@
 <br />
 <hr/>
 
-- 🔭 I’m currently learning everything I can and looking to collaborate in diverse kind of projects.
-- I have some experience with: 
--   React Ecosystem: SPA, Gatsby, Next.js, Redux, Redux-Saga, Redux-Toolkit, Redux-Thunk, Storybook, Framer Motion, Styled Components, Material UI, Bootstrap, Axios, Router, GraphQL.
-    Others:
-    Vue, JavaScript, NodeJs, PHP, Python, Scratch.
-    Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS. 
-    MySQL, MongoDB, Firebase, Xampp. Netlify, Vercel, Heroku, Github pages, Bitbucket, Github. 
-    ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, Notion and many more.
-- 🌎 I'm from Argentina, I lived in China from 2015 to 2020 and at this moment I'm living in eastern Russia.
-- 🐱‍👤 I studied programming in Argentina and Russia. These days I study most of the things on my own.
-- 🐱‍👤 Resources where I often check for consultation: Official documentations, W3Schools, FreeCodeCamp, MDN, Stackoverflow, Youtube, Github repositories, Google.
-- ⚡ Fun fact: I love to learn languages, play piano and read books.
-- Languages: <br/>
-<img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
-<p>Spanish: Mother tongue (Argentinian)</p>
-<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" />
-<p>English: Advanced (TEFL Certificate) </p>
-<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" />
-<p>Chinese: Upper Intermediate (HSK4 level) </p>
-<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" />
-<p>Russian: Intermediate (РВП Certificate) </p>
-<br/>
-- 📫 How to reach me? email => augustordiaz@gmail.com
-- https://aurodium.online/#contact
-<hr/>
+👋 <strong>Hello! I'm a passionate self-learner always exploring new technologies and eager to collaborate on diverse projects.</strong>  
+Currently, I'm diving deep into various areas of development and continuously expanding my skill set.
+
+<h3>💻 Tech Stack & Tools:</h3>
+<ul>
+  <li><strong>React Ecosystem:</strong> SPA, Gatsby, Next.js, Redux (Saga, Toolkit, Thunk), Storybook, Framer Motion, Styled Components, Material UI, Bootstrap, Axios, React Router, GraphQL.</li>
+  <li><strong>Other Technologies:</strong> Vue, JavaScript, Node.js, PHP, Python, Scratch.</li>
+  <li><strong>Styling and Templating:</strong> Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS.</li>
+  <li><strong>Databases:</strong> MySQL, MongoDB, Firebase, Xampp.</li>
+  <li><strong>Deployment Platforms:</strong> Netlify, Vercel, Heroku, GitHub Pages, Bitbucket, GitHub.</li>
+  <li><strong>Other Tools & Libraries:</strong> ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, Notion, and many more.</li>
+</ul>
+
+🌍 <strong>A bit about me:</strong><br/>
+<ul>
+  <li>Originally from <strong>Argentina</strong>, I spent 5 years living in <strong>China</strong> (2015-2020), and I’m now based in <strong>eastern Russia</strong>.</li>
+  <li>I've studied programming in <strong>Argentina</strong> and <strong>Russia</strong>, but most of my current knowledge comes from self-teaching and hands-on projects.</li>
+</ul>
+
+📚 <strong>Learning Resources:</strong><br/>
+I frequently consult official documentation, W3Schools, FreeCodeCamp, MDN, StackOverflow, YouTube, and GitHub repositories.
+
+🎶 <strong>Fun facts:</strong><br/>
+<ul>
+  <li>I’m a language enthusiast: I speak <strong>Spanish</strong> (native), <strong>English</strong> (advanced, TEFL certified), <strong>Chinese</strong> (upper-intermediate, HSK4), and <strong>Russian</strong> (intermediate, РВП certificate).</li>
+  <li>I also enjoy playing the piano and diving into a good book.</li>
+</ul>
+
+<h3>Languages:</h3>
+<ul>
+  <li><img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
+    <p>Spanish: Mother tongue (Argentinian)</p>
 
 <br />
 📈 My Stats
