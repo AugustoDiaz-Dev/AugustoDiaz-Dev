@@ -54,6 +54,17 @@ I frequently consult official documentation, W3Schools, FreeCodeCamp, MDN, Stack
 <ul>
   <li><img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
     <p>Spanish: Mother tongue (Argentinian)</p>
+  </li>
+  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" />
+    <p>English: Advanced (TEFL Certificate)</p>
+  </li>
+  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" />
+    <p>Chinese: Upper Intermediate (HSK4 level)</p>
+  </li>
+  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" />
+    <p>Russian: Intermediate (РВП Certificate)</p>
+  </li>
+</ul>
 
 <br />
 📈 My Stats
