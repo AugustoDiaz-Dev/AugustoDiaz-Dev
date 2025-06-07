@@ -22,51 +22,74 @@
 <br />
 <hr/>
 
-👋 <strong>Hello! I'm a passionate self-learner always exploring new technologies and eager to collaborate on diverse projects.</strong>  
-Currently, I'm diving deep into various areas of development and continuously expanding my skill set.
+# 👋 About Me
 
-<h3>💻 Tech Stack & Tools:</h3>
-<ul>
-  <li><strong>React Ecosystem:</strong> SPA, Gatsby, Next.js, Redux (Saga, Toolkit, Thunk), Storybook, Framer Motion, Styled Components, Material UI, Bootstrap, Axios, React Router, GraphQL.</li>
-  <li><strong>Other Technologies:</strong> Vue, JavaScript, Node.js, PHP, Python, Scratch.</li>
-  <li><strong>Styling and Templating:</strong> Materialize, Bootstrap, CSS3, HTML5, Handlebars, EJS.</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB, Firebase, Xampp.</li>
-  <li><strong>Deployment Platforms:</strong> Netlify, Vercel, Heroku, GitHub Pages, Bitbucket, GitHub.</li>
-  <li><strong>Other Tools & Libraries:</strong> ExpressJS, MomentJS, Figma, jQuery, Jest, Mockaroo, Notion, and many more.</li>
-</ul>
+I’m a versatile and driven professional with a solid background in **Full Stack Development** and a growing specialization in **Data Science and Analytics**. Over the past few years, I’ve been expanding my skill set to include data analysis, statistical modeling, and machine learning, with a strong focus on real-world application and business value.
 
-🌍 <strong>A bit about me:</strong><br/>
-<ul>
-  <li>Originally from <strong>Argentina</strong>, I spent 5 years living in <strong>China</strong> (2015-2020), and I’m now based in <strong>eastern Russia</strong>.</li>
-  <li>I've studied programming in <strong>Argentina</strong> and <strong>Russia</strong>, but most of my current knowledge comes from self-teaching and hands-on projects.</li>
-</ul>
+My development experience includes building responsive, high-performance web applications using modern frameworks such as **React**, **Next.js**, and **Node.js**. This hands-on background gives me a unique advantage when working with data—from ETL processes to dashboard creation—by combining technical implementation with analytical thinking.
 
-📚 <strong>Learning Resources:</strong><br/>
-I frequently consult official documentation, W3Schools, FreeCodeCamp, MDN, StackOverflow, YouTube, and GitHub repositories.
+I’ve lived in multiple countries, including **Argentina**, **China** (5 years), and **Russia** (4 years), and I thrive in diverse, multicultural environments.
 
-🎶 <strong>Fun facts:</strong><br/>
-<ul>
-  <li>I’m a language enthusiast: I speak <strong>Spanish</strong> (native), <strong>English</strong> (advanced, TEFL certified), <strong>Chinese</strong> (upper-intermediate, HSK4), and <strong>Russian</strong> (intermediate, РВП certificate).</li>
-  <li>I also enjoy playing the piano and diving into a good book.</li>
-</ul>
+---
 
-<h3>Languages:</h3>
-<ul>
-  <li><img align="left" alt="React" width="28px" src="https://user-images.githubusercontent.com/85144745/143899058-b7b85e78-7164-419c-8078-7cb869803c2c.png" /> 
-    <p>Spanish: Mother tongue (Argentinian)</p>
-  </li>
-  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899073-a05424d3-cf97-47f0-8ec1-16969da80835.png" />
-    <p>English: Advanced (TEFL Certificate)</p>
-  </li>
-  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899068-436a0876-4218-48b4-81de-29d4d506ddc5.png" />
-    <p>Chinese: Upper Intermediate (HSK4 level)</p>
-  </li>
-  <li><img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/85144745/143899071-be0c38dc-95f2-4a28-8af3-76a11324515d.png" />
-    <p>Russian: Intermediate (РВП Certificate)</p>
-  </li>
-</ul>
+## 🌍 Languages
 
-<br />
+- 🇦🇷 **Spanish**: Native (Argentinian)
+- 🇺🇸 **English**: Advanced (TEFL Certified)
+- 🇨🇳 **Chinese**: Upper-Intermediate (HSK4)
+- 🇷🇺 **Russian**: Intermediate (РВП Certificate)
+
+---
+
+## 🧠 Technical Skills
+
+### 📊 Data Science & Analytics
+- **Languages & Tools**: Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Excel, Jupyter Notebooks
+- **Visualization**: Tableau, Power BI, Google Data Studio
+- **Machine Learning**: Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
+
+### 💻 Full Stack Development
+- **Frontend**: React, Next.js, Gatsby, Redux, Styled Components, Storybook, Framer Motion
+- **Backend**: Node.js, Express.js, REST APIs, Firebase
+- **Styling**: HTML5, CSS3, Bootstrap, Material UI, EJS, Handlebars
+- **Databases**: MySQL, MongoDB, Firebase
+- **DevOps & Deployment**: Git, GitHub, GitHub Pages, Netlify, Vercel, XAMPP
+- **Other Tools**: GraphQL, Jest, Figma, Axios, Notion, Mockaroo
+
+---
+
+## 🎓 Education
+
+**Universidad Tecnológica Nacional (UTN), Buenos Aires**  
+*Studied Programming*
+
+Much of my current expertise has been built through continuous self-learning, real-world projects, and specialized certifications in data science and analytics.
+
+---
+
+## 📚 Learning Approach
+
+I regularly consult:
+- Official documentation
+- GitHub repositories
+- W3Schools, FreeCodeCamp, MDN, StackOverflow
+- Courses on Coursera, edX, and others
+
+I enjoy exploring new technologies, mentoring peers, and contributing to meaningful projects in collaborative environments.
+
+---
+
+## 🎹 Interests
+
+- Playing the piano  
+- Reading nonfiction  
+- Exploring new technologies  
+- Collaborating across languages and cultures  
+
+---
+
+🚀 *Currently seeking opportunities to apply my hybrid background in development and data science to solve impactful problems and generate business insights.*
+
 📈 My Stats
 
 <div>
