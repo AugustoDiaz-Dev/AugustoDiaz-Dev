@@ -32,15 +32,6 @@ I’ve lived in multiple countries, including **Argentina**, **China** (5 years)
 
 ---
 
-## 🌍 Languages
-
-- 🇦🇷 **Spanish**: Native (Argentinian)
-- 🇺🇸 **English**: Advanced (TEFL Certified)
-- 🇨🇳 **Chinese**: Upper-Intermediate (HSK4)
-- 🇷🇺 **Russian**: Intermediate (РВП Certificate)
-
----
-
 ## 🧠 Technical Skills
 
 ### 📊 Data Science & Analytics
@@ -76,6 +67,15 @@ I regularly consult:
 - Courses on Coursera, edX, and others
 
 I enjoy exploring new technologies, mentoring peers, and contributing to meaningful projects in collaborative environments.
+
+---
+
+## 🌍 Languages
+
+- 🇦🇷 **Spanish**: Native (Argentinian)
+- 🇺🇸 **English**: Advanced (TEFL Certified)
+- 🇨🇳 **Chinese**: Upper-Intermediate (HSK4)
+- 🇷🇺 **Russian**: Intermediate (РВП Certificate)
 
 ---
 
