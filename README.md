@@ -88,8 +88,6 @@ I enjoy exploring new technologies, mentoring peers, and contributing to meaning
 
 ---
 
-🚀 *Currently seeking opportunities to apply my hybrid background in development and data science to solve impactful problems and generate business insights.*
-
 📈 My Stats
 
 <div>
