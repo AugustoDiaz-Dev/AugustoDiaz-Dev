@@ -10,7 +10,7 @@ My work sits at the intersection of data, machine learning, and software enginee
 
 With several years of experience in modern web development, I bring a unique advantage to data projects by being able to build the entire lifecycle of data products, from data ingestion and model development to deployment and user-facing applications.
 
-I have lived and worked in Argentina, China, Russia, and the United States, collaborating with international teams and multicultural environments. This experience has shaped my ability to communicate across disciplines and build solutions for global users.
+I have worked in Argentina, China, Russia, and the United States, collaborating with international teams and multicultural environments. This experience has shaped my ability to communicate across disciplines and build solutions for global users.
 
 ---
 
