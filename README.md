@@ -1,72 +1,114 @@
 ### Hi there, I'm Augusto! 👋
 
-  [linkedin]: https://www.linkedin.com/in/augusto-diaz-dev/
-  [![linkedin](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://github.com/AugustoDiaz-Dev)][linkedin]
+## Data Science & AI Engineer | Full Stack Developer | Building Intelligent Data Products
 
-## I'm a Full Stack Developer working on Data Science Projects
+# About Me
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-<hr/>
+I am a Data Science and AI specialist with a strong background in Full Stack Development, focused on building practical data-driven systems that deliver real business value.
 
-# 👋 About Me
+My work sits at the intersection of data, machine learning, and software engineering. I design and develop end-to-end solutions including data pipelines, machine learning models, analytics dashboards, and AI-powered applications.
 
-I’m a versatile and driven professional with a solid background in **Full Stack Development** and a growing specialization in **Data Science and Analytics**. Over the past few years, I’ve been expanding my skill set to include data analysis, statistical modeling, and machine learning, with a strong focus on real-world application and business value.
+With several years of experience in modern web development, I bring a unique advantage to data projects by being able to build the entire lifecycle of data products, from data ingestion and model development to deployment and user-facing applications.
 
-My development experience includes building responsive, high-performance web applications using modern frameworks such as **React**, **Next.js**, and **Node.js**. This hands-on background gives me a unique advantage when working with data—from ETL processes to dashboard creation—by combining technical implementation with analytical thinking.
-
-I’ve lived in multiple countries, including **Argentina**, **China** (5 years), and **Russia** (4 years), and I thrive in diverse, multicultural environments.
+I have lived and worked in Argentina, China, Russia, and the United States, collaborating with international teams and multicultural environments. This experience has shaped my ability to communicate across disciplines and build solutions for global users.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 📊 Data Science & Analytics
-- **Languages & Tools**: Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, Excel, Jupyter Notebooks
-- **Visualization**: Tableau, Power BI, Google Data Studio
-- **Machine Learning**: Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
+Data Science & AI
 
-### 💻 Full Stack Development
-- **Frontend**: React, Next.js, Gatsby, Redux, Styled Components, Storybook, Framer Motion
-- **Backend**: Node.js, Express.js, REST APIs, Firebase
-- **Styling**: HTML5, CSS3, Bootstrap, Material UI, EJS, Handlebars
-- **Databases**: MySQL, MongoDB, Firebase
-- **DevOps & Deployment**: Git, GitHub, GitHub Pages, Netlify, Vercel, XAMPP
-- **Other Tools**: GraphQL, Jest, Figma, Axios, Notion, Mockaroo
+Python ecosystem: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+Machine Learning: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation, Cross Validation
+Data Analysis: Statistical analysis, exploratory data analysis (EDA), data cleaning, feature transformation
+AI & LLM Systems: OpenAI API, LangChain, LangGraph, prompt engineering, RAG pipelines
+Experimentation: model comparison, evaluation metrics, pipeline optimization
+
+Data Engineering
+
+SQL, relational databases, data modeling
+ETL pipelines and data processing workflows
+Jupyter Notebooks and experiment environments
+Data preparation and feature pipelines
+
+Data Visualization
+
+Tableau
+Power BI
+Google Data Studio
+Python visualization libraries
+
+Full Stack Development
+
+Frontend
+React
+Next.js
+Redux
+Framer Motion
+Gatsby
+
+Backend
+Node.js
+Express.js
+REST APIs
+GraphQL
+
+Databases
+MySQL
+MongoDB
+Supabase
+Firebase
+
+Deployment & Infrastructure
+Docker
+Git and GitHub workflows
+Vercel
+Netlify
+Cloud deployment workflows
+
+Developer Tools
+
+Git
+GitHub
+Jest
+Axios
+Figma
+Notion
 
 ---
 
 ## 🎓 Education
 
-**Universidad Tecnológica Nacional (UTN), Buenos Aires**  
-*Studied Programming*
+Universidad Tecnológica Nacional (UTN)
+Buenos Aires, Argentina
+Programming Studies
 
-Much of my current expertise has been built through continuous self-learning, real-world projects, and specialized certifications in data science and analytics.
+Much of my current expertise has been developed through hands-on projects, open-source work, and specialized programs in data science, machine learning, and analytics.
 
 ---
 
-## 📚 Learning Approach
+## Currently Focus 
 
-I regularly consult:
-- Official documentation
-- GitHub repositories
-- W3Schools, FreeCodeCamp, MDN, StackOverflow
-- Courses on Coursera, edX, and others
+I am currently focused on building projects in:
 
-I enjoy exploring new technologies, mentoring peers, and contributing to meaningful projects in collaborative environments.
+• Applied Machine Learning
+• AI-powered applications
+• Data pipelines and analytics systems
+• Fintech-related data products
+• LLM-based tools and intelligent assistants
+
+Many of my projects combine data science with real product development, including dashboards, APIs, and interactive applications.
+
+## 📚 Learning Philosophy
+
+My approach to learning is highly practical and project-driven. I continuously improve my skills by studying:
+
+• Official documentation
+• Research papers and technical blogs
+• GitHub open-source projects
+• Courses on Coursera, edX, and other platforms
+
+I believe the best way to learn is by building real systems and solving real problems.
 
 ---
 
@@ -75,16 +117,18 @@ I enjoy exploring new technologies, mentoring peers, and contributing to meaning
 - 🇦🇷 **Spanish**: Native (Argentinian)
 - 🇺🇸 **English**: Advanced (TEFL Certified)
 - 🇨🇳 **Chinese**: Upper-Intermediate (HSK4)
-- 🇷🇺 **Russian**: Intermediate (РВП Certificate)
+- 🇷🇺 **Russian**: Intermediate (РВП/ВНЖ Certificates)
 
 ---
 
 ## 🎹 Interests
 
-- Playing the piano  
-- Reading nonfiction  
-- Exploring new technologies  
-- Collaborating across languages and cultures  
+Technology and artificial intelligence
+Data science and analytics
+Fintech innovation
+Reading nonfiction
+Playing the piano
+Working across cultures and languages 
 
 ---
 
