@@ -14,66 +14,38 @@ I have worked in Argentina, China, Russia, and the United States, collaborating 
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
-Data Science & AI
+### Data Science & AI
 
-Python ecosystem: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-Machine Learning: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation, Cross Validation
-Data Analysis: Statistical analysis, exploratory data analysis (EDA), data cleaning, feature transformation
-AI & LLM Systems: OpenAI API, LangChain, LangGraph, prompt engineering, RAG pipelines
-Experimentation: model comparison, evaluation metrics, pipeline optimization
+- Python ecosystem: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn 
+- Machine Learning: Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation, Cross Validation 
+- Data Analysis: Statistical analysis, exploratory data analysis (EDA), data cleaning, feature transformation 
+- AI & LLM Systems: OpenAI API, LangChain, LangGraph, prompt engineering, RAG pipelines 
+- Experimentation: model comparison, evaluation metrics, pipeline optimization 
 
-Data Engineering
+### Data Engineering
 
-SQL, relational databases, data modeling
-ETL pipelines and data processing workflows
-Jupyter Notebooks and experiment environments
-Data preparation and feature pipelines
+- SQL, relational databases, data modeling
+- ETL pipelines and data processing workflows
+- Jupyter Notebooks, Google Colab and experiment environments
+- Data preparation and feature pipelines
 
-Data Visualization
+### Data Visualization
 
-Tableau
-Power BI
-Google Data Studio
-Python visualization libraries
+- Python visualization libraries
 
-Full Stack Development
+### Full Stack Development
 
-Frontend
-React
-Next.js
-Redux
-Framer Motion
-Gatsby
+- Frontend: React, Next.js, Redux, Framer Motion, Gatsby. 
 
-Backend
-Node.js
-Express.js
-REST APIs
-GraphQL
+- Backend: Node.js, Express.js, REST APIs, GraphQL. 
 
-Databases
-MySQL
-MongoDB
-Supabase
-Firebase
+- Databases: MySQL, MongoDB, Supabase, Firebase.  
 
-Deployment & Infrastructure
-Docker
-Git and GitHub workflows
-Vercel
-Netlify
-Cloud deployment workflows
+- Deployment & Infrastructure:Docker, Git and GitHub workflows, Vercel, Netlify, Hostinger. 
 
-Developer Tools
-
-Git
-GitHub
-Jest
-Axios
-Figma
-Notion
+- Other Developer Tools: Jest, Axios, Figma, Notion.
 
 ---
 
@@ -83,7 +55,7 @@ Universidad Tecnológica Nacional (UTN)
 Buenos Aires, Argentina
 Programming Studies
 
-Much of my current expertise has been developed through hands-on projects, open-source work, and specialized programs in data science, machine learning, and analytics.
+Much of my current expertise has been developed through hands-on projects and specialized programs in data science, machine learning, and analytics.
 
 ---
 
@@ -123,12 +95,12 @@ I believe the best way to learn is by building real systems and solving real pro
 
 ## 🎹 Interests
 
-Technology and artificial intelligence
-Data science and analytics
-Fintech innovation
-Reading nonfiction
-Playing the piano
-Working across cultures and languages 
+- Technology and artificial intelligence
+- Data science and analytics
+- Fintech innovation
+- Reading nonfiction
+- Playing the piano
+- Working across cultures and languages 
 
 ---
 
