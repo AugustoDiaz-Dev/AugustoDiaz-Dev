@@ -82,15 +82,6 @@ I am currently focused on:
 
 ---
 
-# Languages
-
-- Spanish — Native
-- English — Advanced
-- Chinese — Upper Intermediate (HSK4)
-- Russian — Intermediate
-
----
-
 # Interests
 
 - Data analytics and financial systems
