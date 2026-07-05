@@ -79,7 +79,6 @@ I am currently focused on:
 - SQL and advanced data querying (including window functions and CTEs)
 - Power BI dashboards for business insights
 - Applied machine learning for real-world business problems
-- Building a strong portfolio for Data Analyst / Business Analyst roles
 
 ---
 
@@ -102,19 +101,11 @@ I am currently focused on:
 
 ---
 
-# GitHub Stats
+# Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=augustodiaz-dev&show_icons=true&theme=gotham" />
+Spanish: Native (Argentinian)  
+English: Advanced (TEFL Certified)  
+Chinese: Upper-Intermediate (HSK4)  
+Russian: Intermediate (РВП/ВНЖ Certificates)
 
 ---
-
-# What I’m Building
-
-This profile showcases hands-on projects in:
-
-- SQL-based financial analytics
-- Customer segmentation and behavior analysis
-- A/B testing and product experimentation
-- Machine learning for classification and prediction
-- Interactive dashboards in Power BI
-- NLP applications for FinTech use cases
